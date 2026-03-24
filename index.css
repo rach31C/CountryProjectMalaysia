@@ -265,7 +265,7 @@ p {
 
 #position2{
   position: relative;
-  right: 20px;
+  right: 50px;
 }
 .position3{
   position: relative;
@@ -330,8 +330,8 @@ p {
 #airlist li{
   font-family: "Nunito";
   color: #1f2345;
-  margin-left: 15px;
-  padding: 10px;
+  margin-left: 55px;
+  padding: 15px;
   font-size: 20px;
   text-align: left;
 
